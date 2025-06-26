@@ -1,8 +1,38 @@
-<h1 align="center">Hi 👋, I'm Gonzalo Garcia</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gonzgarcia3092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzgarcia3092" height="30" width="40" /></a>
-</p>
+# 👋 ¡Hola! Soy Gonzalo Garcia
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Soy un **Analista de Datos y Project Manager** con experiencia en la optimización de procesos y toma de decisiones basada en datos, especialmente en el sector HORECA. En mi rol actual, me especializo en transformar datos complejos en soluciones prácticas, liderando equipos para mejorar la eficiencia operativa.
+
+---
+
+## Mi Pasión: Ciencia de Datos e Inteligencia Artificial
+
+Mi enfoque se está moviendo hacia el emocionante mundo de la **Ciencia de Datos** y la **Inteligencia Artificial**. Estoy activamente inmerso en el aprendizaje y la aplicación de técnicas avanzadas para construir soluciones innovadoras, con un interés particular en la **automatización con agentes de IA**.
+
+---
+
+### Habilidades Destacadas:
+- **Análisis de Datos Avanzado**
+- **Visualización de Datos**
+- **Liderazgo de Proyectos y Equipos**
+- **Optimización de Procesos**
+- (Aquí puedes añadir lenguajes o herramientas que manejes o estés aprendiendo, ej: `Python`, `SQL`, `Power BI`, `Machine Learning`, `Pandas`, `NumPy`)
+
+---
+
+## ¿Qué encontrarás en mi GitHub?
+
+Aquí podrás explorar proyectos relacionados con:
+- Análisis y visualización de datos.
+- Scripts de automatización.
+- Proyectos personales explorando Machine Learning e IA.
+- Soluciones a problemas reales usando datos.
+
+---
+
+## Conectemos 🤝
+
+¡Siempre estoy abierto a nuevas conexiones y oportunidades!
+- **LinkedIn:** https://www.linkedin.com/in/gonzgarcia3092/
+- **Correo Electrónico:** gonzalbertogb@gmail.com
+
+¡Gracias por visitar mi perfil!
